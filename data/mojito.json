@@ -1,0 +1,18 @@
+{
+  "name": "Mojito",
+  "image": "https://media.kaufland.com/images/PPIM/AP_Content_1010/std.lang.all/52/88/Asset_2395288.jpg",
+  "ingredients": [
+    {
+      "name": "White Rum (Havana)",
+      "amount": "2cl"
+    },
+    {
+      "name": "Limetten",
+      "amount": "1pcs"
+    },
+    {
+      "name": "Rohrzucker",
+      "amount": "2cl"
+    }
+  ]
+}

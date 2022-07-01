@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cocktails</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Cocktails</h1>
+    <h2>Tims Grill-Party 01.07.2022</h2>
+    <div class="cocktails">
+        {% for c in cocktails: %}
+            <div class="cocktail cocktail-container">
+                <div class="cocktail cocktail-image">
+                    <img src="{{ c['image'] }}">
+                </div>
+                <div class="cocktail cocktail-info">
+                    <div class="cocktail cocktail-title">{{ c['name'] }}</div>
+                    <div class="cocktail cocktail-ingredients">
+                        {% for ing in c['ingredients']: %}
+                            <p class="ingredient">{{ ing['name'] }}</p>
+                        
+                            {% if not loop.last %}
+                                <p>,</p>
+                            {% endif %}
+                        {% endfor %}
+
+                        
+                    </div>
+                </div>
+                
+            </div>
+        {% endfor %}
+
+
+    </div>
+</body>
+</html>

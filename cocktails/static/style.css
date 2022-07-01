@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Chalk';
+    src: URL('Filmcryptic.ttf') format('truetype');
+  }
+
+body {
+    background-image: url('blackboard.jpg');
+    background-color: #cccccc;
+    background-size: 100% 100%;
+    font-family: 'Chalk';
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.cocktails {
+    background-color: transparent;
+}
+
+.cocktail {
+    color: white;
+}
+
+.cocktail-container {
+    border: 4px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 100%;
+    max-width: 500px;
+    display: flex;
+}
+
+.cocktail-image {
+    width: 25%;
+    margin: 5%;
+}
+
+.cocktail-image > img {
+    width: 100%;
+}
+
+.cocktail-info {
+    width: 65%;
+}
+
+.cocktail-title {
+    margin-top: 10%;
+    font-size: xx-large;
+}
+
+.cocktail-ingredients {
+    display: flex;
+}
+
+.ingredient {
+    padding-left: 10px;
+}
