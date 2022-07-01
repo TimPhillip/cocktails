@@ -1,4 +1,26 @@
 {
   "name": "Lillet Femme Fatale",
-  "image": "https://www.lillet.com/wp-content/uploads/cocktail-rezept-Lillet-Femme-Fatale-scaled.jpg"
+  "image": "https://www.lillet.com/wp-content/uploads/cocktail-rezept-Lillet-Femme-Fatale-scaled.jpg",
+  "ingredients":[
+    {
+      "name": "Lillet Rouge",
+      "amount": "5cl"
+    },
+    {
+      "name": "Rosenlimonade",
+      "amount": "150ml"
+    },
+    {
+      "name": "Rosensirup",
+      "amount": "1cl"
+    },
+    {
+      "name": "Zitrone",
+      "amount": "1pcs"
+    },
+    {
+      "name": "Rosmarin",
+      "amount": "1pcs"
+    }
+]
 }

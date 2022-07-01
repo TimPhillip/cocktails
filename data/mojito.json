@@ -4,7 +4,7 @@
   "ingredients": [
     {
       "name": "White Rum (Havana)",
-      "amount": "2cl"
+      "amount": "5cl"
     },
     {
       "name": "Limetten",
@@ -12,7 +12,15 @@
     },
     {
       "name": "Rohrzucker",
-      "amount": "2cl"
+      "amount": "2 Spoon"
+    },
+    {
+      "name": "Minze",
+      "amount": "2 Zweige"
+    },
+    {
+      "name": "Mineralwasser",
+      "amount": "100 ml"
     }
   ]
 }

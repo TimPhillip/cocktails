@@ -1,0 +1,26 @@
+{
+    "name": "Aperol Sour",
+    "image": "https://media.kaufland.com/images/PPIM/AP_Content_2708/std.lang.all/63/02/Asset_4416302.jpg",
+    "ingredients": [
+      {
+        "name": "Aperol",
+        "amount": "5cl"
+      },
+      {
+        "name": "Zitronensaft",
+        "amount": "3cl"
+      },
+      {
+        "name": "Orangensaft",
+        "amount": "2cl"
+      },
+      {
+        "name": "Zuckersirup",
+        "amount": "1cl"
+      },
+      {
+        "name": "(BIO) Orangenscheibe",
+        "amount": "1pcs"
+      }
+    ]
+  }

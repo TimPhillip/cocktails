@@ -1,4 +1,18 @@
 {
   "name": "Cubra Libre",
-  "image": "https://spirituosenworld.de/images/cocktails/cuba-libre-longdrink.jpg.pagespeed.ce.gbedARYAhK.jpg"
+  "image": "https://spirituosenworld.de/images/cocktails/cuba-libre-longdrink.jpg.pagespeed.ce.gbedARYAhK.jpg",
+  "ingredients":[
+      {
+        "name": "Cola",
+        "amount": "150ml"
+      },
+      {
+        "name": "Monin Lime Juice",
+        "amount": "1cl"
+      },
+      {
+        "name": "Captain Morgan Rum",
+        "amount": "2cl"
+      }
+  ]
 }

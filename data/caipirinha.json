@@ -1,0 +1,18 @@
+{
+  "name": "Caipirinha",
+  "image": "https://media.kaufland.com/images/PPIM/AP_Content_2708/std.lang.all/63/69/Asset_3236369.jpg",
+  "ingredients": [
+    {
+      "name": "Cachaca Pitu",
+      "amount": "6cl"
+    },
+    {
+      "name": "Limetten",
+      "amount": "1pcs"
+    },
+    {
+      "name": "Rohrzucker",
+      "amount": "2 Spoon"
+    }
+  ]
+}
