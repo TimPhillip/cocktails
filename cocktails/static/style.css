@@ -20,6 +20,11 @@ h2 {
     text-align: center;
 }
 
+a {
+    text-align: center;
+    color: white;
+}
+
 .cocktails {
     background-color: transparent;
 }
@@ -67,3 +72,12 @@ h2 {
     padding-left: 10px;
     display: inline;
 }
+
+.ingredient-detailed {
+    padding-left: 0px;
+    padding-top: 10px;
+    display: list-item;
+    margin-left: 20px;
+}
+
+

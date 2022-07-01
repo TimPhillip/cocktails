@@ -10,7 +10,7 @@
     <h2>Tims Grill-Party 01.07.2022</h2>
     <div class="cocktails">
         {% for c in cocktails: %}
-            <div class="cocktail cocktail-container">
+            <div class="cocktail cocktail-container" onclick="window.location='{{ url_for('detailed_view', id=loop.index0) }}';">
                 <div class="cocktail cocktail-image">
                     <img src="{{ c['image'] }}">
                 </div>

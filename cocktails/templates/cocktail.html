@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ cocktail['name'] }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Cocktails</h1>
+    <h2>Tims Grill-Party 01.07.2022</h2>
+    <a href="{{ url_for('main') }}">Zurück zur Karte</a>
+    <div class="cocktail cocktail-container">
+        <div class="cocktail cocktail-image">
+            <img src="{{ cocktail['image'] }}">
+        </div>
+        <div class="cocktail cocktail-info">
+            <div class="cocktail cocktail-title">{{ cocktail['name'] }}</div>
+            <div class="cocktail cocktail-ingredients">
+                {% for ing in cocktail['ingredients']: %}
+                    <div class="ingredient-detailed">{{ ing['amount'] + " " + ing['name'] }}</div>
+                {% endfor %}
+            </div>
+        </div>
+        
+    </div>
+</body>
+</html>
