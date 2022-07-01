@@ -1,0 +1,18 @@
+{
+    "name": "Lillet Wild Berry",
+    "image": "https://www.edeka.de/media/01-rezeptbilder/rezeptbilder-i-p/rez-edeka-lillet-wildberry-rezept-i-p-1-1.jpg",
+    "ingredients":[
+      {
+        "name": "Lillet Blanc",
+        "amount": "5cl"
+      },
+      {
+        "name": "Schweppes Wild Berry",
+        "amount": "100ml"
+      },
+      {
+        "name": "Himbeeren",
+        "amount": ""
+      }
+  ]
+  }

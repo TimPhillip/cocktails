@@ -1,0 +1,22 @@
+{
+    "name": "Gin Tonic",
+    "image": "https://www.rhodos-wiefelstede.de/media/af/d3/28/1632921258/Gin-Tonic-1156947760.jpg",
+    "ingredients":[
+        {
+          "name": "Gin",
+          "amount": "5cl"
+        },
+        {
+          "name": "Tonic Water",
+          "amount": "100 ml"
+        },
+        {
+            "name": "Limettenscheibe",
+            "amount": "1pcs"
+        },
+        {
+            "name": "Rosmarin",
+            "amount": "1pcs"
+        }
+    ]
+  }

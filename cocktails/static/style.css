@@ -57,9 +57,13 @@ h2 {
 }
 
 .cocktail-ingredients {
-    display: flex;
+}
+
+.cocktail-ingredients > p {
+    display: inline;
 }
 
 .ingredient {
     padding-left: 10px;
+    display: inline;
 }

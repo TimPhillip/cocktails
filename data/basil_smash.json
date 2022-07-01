@@ -1,0 +1,22 @@
+{
+    "name": "Gin Basil Smash",
+    "image": "https://www.edeka.de/media/01-rezeptbilder/rezeptbilder-e-h/rez-edeka-gin-basil-smash-rezept-e-h-1-1.jpg",
+    "ingredients":[
+        {
+          "name": "Gin",
+          "amount": "5cl"
+        },
+        {
+          "name": "Basililum",
+          "amount": "10 Blatt"
+        },
+        {
+            "name": "Zuckersirup",
+            "amount": "2cl"
+        },
+        {
+            "name": "Zitronensaft",
+            "amount": "2cl"
+        }
+    ]
+  }
