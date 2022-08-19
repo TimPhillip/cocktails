@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Cocktails</h1>
-    <h2>Tims Grill-Party 01.07.2022</h2>
+    <h2>Marlenes Geburtstags-Party 19.08.2022</h2>
     <div class="cocktails">
         {% for c in cocktails: %}
             <div class="cocktail cocktail-container" onclick="window.location='{{ url_for('detailed_view', id=loop.index0) }}';">

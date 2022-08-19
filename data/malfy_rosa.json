@@ -1,0 +1,22 @@
+{
+    "name": "Malfy Aperitivo Rosa",
+    "image": "https://www.malfygin.com/wp-content/uploads/2022/01/rosa_malfy-aperitivo-rosa_291x550-2.png",
+    "ingredients":[
+        {
+          "name": "Malfy Gin Rosa",
+          "amount": "5 cl"
+        },
+        {
+          "name": "Schweppes Wild Berry",
+          "amount": "120 ml"
+        },
+        {
+            "name": "Limettensaft",
+            "amount": "1 Spritzer"
+        },
+        {
+            "name": "Grapefruit-Scheibe",
+            "amount": "1 pcs"
+        }
+    ]
+  }
