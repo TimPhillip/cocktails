@@ -1,0 +1,22 @@
+{
+    "name": "Havana Club Verde Tonic",
+    "image": "https://havana-club.com/wp-content/uploads/cache/2020/12/HAVANACLUB_VERDE_TONIC_LIGHT_5725_RGB-2/1949773755.png",
+    "ingredients":[
+        {
+          "name": "Havana Club Verde",
+          "amount": "5cl"
+        },
+        {
+          "name": "Tonic Water",
+          "amount": "100 ml"
+        },
+        {
+            "name": "Grapefruit-Scheibe",
+            "amount": "1pcs"
+        },
+        {
+            "name": "Minze",
+            "amount": "3pcs"
+        }
+    ]
+  }
