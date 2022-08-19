@@ -1,0 +1,26 @@
+{
+    "name": "Moscow Mule",
+    "image": "https://www.gutekueche.ch/upload/rezept/17410/moscow-mule.jpg",
+    "ingredients":[
+        {
+          "name": "Vodka",
+          "amount": "5cl"
+        },
+        {
+          "name": "Ginger Beer",
+          "amount": "8 cl"
+        },
+        {
+          "name": "Limettensaft",
+          "amount": "2 cl"
+        },
+        {
+            "name": "Limettenscheibe",
+            "amount": "1pcs"
+        },
+        {
+            "name": "Minze",
+            "amount": "3pcs"
+        }
+    ]
+  }

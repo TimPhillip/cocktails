@@ -1,0 +1,26 @@
+{
+    "name": "London Mule",
+    "image": "https://www.millennium-bartending.de/storage/2021/01/Munich-Mule.jpg",
+    "ingredients":[
+        {
+          "name": "Gin",
+          "amount": "5cl"
+        },
+        {
+          "name": "Ginger Beer",
+          "amount": "8 cl"
+        },
+        {
+          "name": "Limettensaft",
+          "amount": "2 cl"
+        },
+        {
+            "name": "Limettenscheibe",
+            "amount": "1pcs"
+        },
+        {
+            "name": "Minze",
+            "amount": "3pcs"
+        }
+    ]
+  }
